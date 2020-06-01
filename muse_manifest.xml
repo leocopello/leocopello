@@ -1,0 +1,120 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="leocopello.com" resolutions="1x" timestamp="1445522344714">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="368651566" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="4002334955" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="344625086" seo="true" mt="1445521837839" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="81749871"/>
+    <file name="index.css" crc="390035869" ref="index"/>
+    <file name="iefonts_index.css" crc="482525829" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:phone>index"/>
+    <file name="museutils.js" crc="275725342" ref="index:phone>index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index:phone>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:phone>index"/>
+    <file name="webpro.js" crc="3883484123" ref="index:phone>index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index:phone>index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index:phone>index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index:phone>index"/>
+    <file name="museredirect.js" crc="3899419633" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.jpg" crc="422933040" seo="true" ref="index"/>
+    <file name="foto-leo-u1544-fr.png" crc="372076726" ref="index"/>
+    <file name="mockup00010-crop-u986.jpg" crc="414783185" ref="index"/>
+    <file name="mockup00023-crop-u1127.jpg" crc="4161019820" ref="index"/>
+    <file name="mockup00003-crop-u864.jpg" crc="3969996886" ref="index"/>
+    <file name="mockup00016-crop-u1190.jpg" crc="4082297481" ref="index"/>
+    <file name="mockup00028-crop-u1229.jpg" crc="2858169" ref="index"/>
+    <file name="mockup00029329x249.jpg" crc="388352371" seo="true" ref="phone>index:index"/>
+    <file name="mockup00037-crop-u1373.jpg" crc="4257964511" ref="index"/>
+    <file name="mockup00031-crop-u1256.jpg" crc="4103355634" ref="index"/>
+    <file name="mockup00012-crop-u968.jpg" crc="4112352144" ref="index"/>
+    <file name="mockup00021343x249.jpg" crc="3978294392" seo="true" ref="phone>index:index"/>
+    <file name="mockup00024-crop-u1118.jpg" crc="4027604712" ref="index"/>
+    <file name="mockup00035-crop-u1350.jpg" crc="134096671" ref="index"/>
+    <file name="mockup00034332x249.jpg" crc="3897144554" seo="true" ref="phone>index:index"/>
+    <file name="mockup00014-crop-u950.jpg" crc="3894401995" ref="index"/>
+    <file name="mockup00017-crop-u1181.jpg" crc="3874348622" ref="index"/>
+    <file name="mockup00036337x249.jpg" crc="4123273047" seo="true" ref="phone>index:index"/>
+    <file name="mockup00033-crop-u1274.jpg" crc="3999491980" ref="index"/>
+    <file name="mockup00015-crop-u941.jpg" crc="3832506963" ref="index"/>
+    <file name="mockup00013-crop-u959.jpg" crc="3993198223" ref="index"/>
+    <file name="mockup00027-crop-u1091.jpg" crc="12130502" ref="index"/>
+    <file name="mockup00008-crop-u1004.jpg" crc="388768393" ref="index"/>
+    <file name="mockup00032-crop-u1265.jpg" crc="294374457" ref="index"/>
+    <file name="mockup00010.jpg" crc="298133140" seo="true" ref="index:phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:phone>index"/>
+    <file name="mockup00023.jpg" crc="7474467" seo="true" ref="index:phone>index"/>
+    <file name="mockup00003.jpg" crc="307803667" seo="true" ref="index:phone>index"/>
+    <file name="mockup00016.jpg" crc="3962481734" seo="true" ref="index:phone>index"/>
+    <file name="mockup00028.jpg" crc="43427966" seo="true" ref="index:phone>index"/>
+    <file name="mockup00029-crop-u1241.jpg" crc="354278386" ref="index"/>
+    <file name="mockup00037.jpg" crc="466998237" seo="true" ref="index:phone>index"/>
+    <file name="mockup00031.jpg" crc="350822477" seo="true" ref="index:phone>index"/>
+    <file name="mockup00012.jpg" crc="128638483" seo="true" ref="index:phone>index"/>
+    <file name="mockup00021.jpg" crc="3993931180" seo="true" ref="index:phone>index"/>
+    <file name="mockup00024.jpg" crc="3815221718" seo="true" ref="index:phone>index"/>
+    <file name="mockup00035.jpg" crc="4126340170" seo="true" ref="index:phone>index"/>
+    <file name="mockup00034-crop-u1334.jpg" crc="4064810746" ref="index"/>
+    <file name="mockup00014.jpg" crc="4099024556" seo="true" ref="index:phone>index"/>
+    <file name="mockup00017.jpg" crc="218167158" seo="true" ref="index:phone>index"/>
+    <file name="mockup00036-crop-u1362.jpg" crc="38021461" ref="index"/>
+    <file name="mockup00033.jpg" crc="4031109725" seo="true" ref="index:phone>index"/>
+    <file name="mockup00015.jpg" crc="206415376" seo="true" ref="index:phone>index"/>
+    <file name="mockup00013.jpg" crc="3996930816" seo="true" ref="index:phone>index"/>
+    <file name="mockup00027.jpg" crc="4085055521" seo="true" ref="index:phone>index"/>
+    <file name="mockup00008.jpg" crc="4227452645" seo="true" ref="index:phone>index"/>
+    <file name="mockup00032.jpg" crc="80470843" seo="true" ref="index:phone>index"/>
+    <file name="first.svg" crc="4214889106" ref="index:phone>index"/>
+    <file name="first_poster_u445.png" crc="154968947" ref="index:phone>index"/>
+    <file name="left-arrow.svg" crc="3949976111" ref="index:phone>index"/>
+    <file name="left-arrow_poster_u395.png" crc="4189366824" ref="index:phone>index"/>
+    <file name="right-arrow.svg" crc="415473593" ref="index:phone>index"/>
+    <file name="right-arrow_poster_u413.png" crc="3934377674" ref="index:phone>index"/>
+    <file name="last.svg" crc="3807741576" ref="index:phone>index"/>
+    <file name="last_poster_u430.png" crc="412417395" ref="index:phone>index"/>
+    <file name="pasted svg 36x36.svg" crc="3916680880" ref="index:phone>index"/>
+    <file name="pasted svg 36x36_poster_.png" crc="4121135264" ref="phone>index:index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:phone>index"/>
+    <file name="twitter.png" crc="4055230061" seo="true" ref="index:phone>index"/>
+    <file name="linkedin.png" crc="373418793" seo="true" ref="index:phone>index"/>
+    <file name="mail.png" crc="73456442" seo="true" ref="index:phone>index"/>
+    <file name="vector-2.svg" crc="3977515905" ref="index"/>
+    <file name="vector-2_poster_.png" crc="4113151237" ref="index"/>
+    <file name="mockup038345x249.jpg" crc="237019976" seo="true" ref="phone>index:index"/>
+    <file name="mockup039-crop-u1597.jpg" crc="3951044650" ref="index"/>
+    <file name="mockup038-crop-u1586.jpg" crc="4065746221" ref="index"/>
+    <file name="mockup039.jpg" crc="3894735007" seo="true" ref="index:phone>index"/>
+    <file name="mockup00010-crop-u1806.jpg" crc="414783185" ref="phone>index"/>
+    <file name="mockup00023-crop-u1796.jpg" crc="4161019820" ref="phone>index"/>
+    <file name="mockup00003-crop-u1780.jpg" crc="3969996886" ref="phone>index"/>
+    <file name="mockup00016-crop-u1800.jpg" crc="4082297481" ref="phone>index"/>
+    <file name="mockup00028-crop-u1790.jpg" crc="2858169" ref="phone>index"/>
+    <file name="mockup00037-crop-u1782.jpg" crc="4257964511" ref="phone>index"/>
+    <file name="mockup00031-crop-u1820.jpg" crc="4103355634" ref="phone>index"/>
+    <file name="mockup00012-crop-u1798.jpg" crc="4112352144" ref="phone>index"/>
+    <file name="mockup00024-crop-u1784.jpg" crc="4027604712" ref="phone>index"/>
+    <file name="mockup00035-crop-u1814.jpg" crc="134096671" ref="phone>index"/>
+    <file name="mockup00014-crop-u1810.jpg" crc="3894401995" ref="phone>index"/>
+    <file name="mockup00017-crop-u1804.jpg" crc="3874348622" ref="phone>index"/>
+    <file name="mockup00015-crop-u1786.jpg" crc="3832506963" ref="phone>index"/>
+    <file name="mockup00033-crop-u1812.jpg" crc="3999491980" ref="phone>index"/>
+    <file name="mockup039-crop-u1788.jpg" crc="3951044650" ref="phone>index"/>
+    <file name="mockup00013-crop-u1802.jpg" crc="3993198223" ref="phone>index"/>
+    <file name="mockup00032-crop-u1794.jpg" crc="294374457" ref="phone>index"/>
+    <file name="mockup00027-crop-u1778.jpg" crc="12130502" ref="phone>index"/>
+    <file name="mockup00008-crop-u1792.jpg" crc="388768393" ref="phone>index"/>
+    <file name="mockup00029-crop-u1708.jpg" crc="354278386" ref="phone>index"/>
+    <file name="mockup00034-crop-u1704.jpg" crc="4064810746" ref="phone>index"/>
+    <file name="mockup00036-crop-u1718.jpg" crc="38021461" ref="phone>index"/>
+    <file name="mockup038-crop-u1736.jpg" crc="4065746221" ref="phone>index"/>
+  </folder>
+  <file name="index.html" crc="4066453686" seo="true" mt="1445522327368" redirect="true"/>
+</manifest>
